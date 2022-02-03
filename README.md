@@ -13,7 +13,7 @@ Linguagens que utilizo por enquanto:
 
 ##
 
-<h2> 🙋‍♂️ How to reach me:<br></h2>
+<h3> 🙋‍♂️ How to reach me:<br></h3>
 <div style="display_inlineblock">
   <a href = "https://www.linkedin.com/in/lucas-amaral-73650a1b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto: lucasamaral18y@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

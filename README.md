@@ -1,8 +1,6 @@
-Oi eu sou o Lucas Amaral e possuo 20 anos! 😉✌
+<h1> Oi eu sou Lucas Amaral  😉✌ </h1>
 
-Estudo programação desde 2020 e pretendo seguir atuando nesta área 🤯
-
-
+Me interessei muito pela área, pois sempre fui fissurado em tecnologia, principalmente no quesito de design de interfaces web, quero expor minha criatividade por meio de códigos para procurar desenvolver websites ainda melhores. 🤯
 
 
 How to reach me 📬 :

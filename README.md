@@ -1,15 +1,16 @@
-<h1> Oi eu sou Lucas Amaral  😉✌ </h1>
+<h1> Oi eu sou Lucas Amaral 👨‍💻</h1>
 
-Me interessei muito pela área, pois sempre fui fissurado em tecnologia, principalmente no quesito de design de interfaces web, quero expor minha criatividade por meio de códigos para procurar desenvolver websites ainda melhores. 🤯
+Particularmente sou atraído a simplicidade, porém sem largar mão da qualidade de algo de ponta, busco 'codar' de uma forma em que sites e sistemas sejam responsivos e busquem ser minimalistas, procurando por isso, diariamente tento melhorar nesse quesito, prazer, esse sou eu, e seja bem vindo, aproveita e verifica alguns projetinhos que desenvolvi 😉✌!!!
 
 ##
-Linguagens que utilizo por enquanto:
+
+📚 Tecnologias que pratico:
 <br>
 <div style="display: inline block">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"</a>
 </div>
-
 
 ##
 

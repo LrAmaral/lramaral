@@ -1,4 +1,5 @@
-### Hello world !!! 👋☕
+### Hello World ☕
+
 
   🌱 I’m currently learning:
  <div style="display: inline block">
@@ -15,5 +16,3 @@
   <a href = "mailto: lucasamaral18y@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   <br>
-  
-⚡ Fun fact: I am funny

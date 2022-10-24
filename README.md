@@ -25,6 +25,7 @@
   <a href = "https://www.linkedin.com/in/lucas-amaral-73650a1b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" target="_blank"></a>
   <a href = "mailto: lucasamaral18y@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
-  <br>
-
+  
+   ##
+    
 ![snake animation](https://github.com/LrAmaral/LrAmaral/blob/main/.github/workflows/snake.yml)

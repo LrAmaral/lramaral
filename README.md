@@ -1,6 +1,5 @@
 ### Hello World ☕
-
-
+<br>
     
   <div align="center" style="display: inline_block">
     <a href="https://github.com/LrAmaral">
@@ -9,8 +8,9 @@
 </div>
 <br>
 
-🌱 I’m currently learning:
   <div align="center" style="display: inline_block">
+  🌱 I’m currently learning:<br>
+  <br>
      <img align:"center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"/>
     <img align:"center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"/>
     <img align:"center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"/>
@@ -20,8 +20,10 @@
   </div>
 
   <br>
-  📫 How to reach me:
+  
   <div align="center" style="display: inline_block">
+  📫 How to reach me:
+  <br>
   <br>
   <a href = "https://www.linkedin.com/in/lucas-amaral-73650a1b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" target="_blank"></a>
   <a href = "mailto: lucasamaral18y@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

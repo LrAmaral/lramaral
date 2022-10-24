@@ -27,5 +27,10 @@
   </div>
   
    ##
-    
+   
+<div>
+
 ![snake animation](https://github.com/LrAmaral/LrAmaral/blob/main/.github/workflows/snake.yml)
+
+</div>
+  

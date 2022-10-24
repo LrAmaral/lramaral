@@ -9,7 +9,7 @@
 <br>
 
   <div align="center" style="display: inline_block">
-  🌱 I’m currently learning:<br>
+  <strong>🌱 I’m currently learning:<br></strong>
   <br>
      <img align:"center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"/>
     <img align:"center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"/>
@@ -22,7 +22,7 @@
   <br>
   
   <div align="center" style="display: inline_block">
-  📫 How to reach me:
+  <strong>📫 How to reach me: </strong>
   <br>
   <br>
   <a href = "https://www.linkedin.com/in/lucas-amaral-73650a1b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" target="_blank"></a>

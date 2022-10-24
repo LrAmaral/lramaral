@@ -15,7 +15,7 @@
     <img align:"center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"/>
     <!--<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"</a>-->
     <img align:"center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" target="_blank"/>
-    <img align: "right" src="#"/>
+    <!--<img align: "right" src="#"/>-->
   </div>
 
   ## 

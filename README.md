@@ -10,12 +10,11 @@
 ##
   <div align="center" style="display: inline_block">
   <strong><h3>🌱 I’m currently learning:</h3></strong>
-     <img align:"center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"/>
+    <img align:"center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"/>
     <img align:"center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"/>
     <img align:"center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"/>
     <!--<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"</a>-->
     <img align:"center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" target="_blank"/>
-    <!--<img align: "right" src="#"/>-->
   </div>
 
   ## 
@@ -26,7 +25,11 @@
   <a href = "mailto: lucasamaral18y@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
-   ##
+  <div align="center" style:"display: inline_block"><br>
+   <img align:"right" height ="200px" src="https://cdn.discordapp.com/attachments/1031342785682493596/1034118325078347787/picasion.com_119caf0ebb302d1702aaca4955fc3c68.gif"/>
+     </div>
+   
+    
   
 
   

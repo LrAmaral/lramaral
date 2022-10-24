@@ -26,7 +26,7 @@
   </div>
   
   <div align="center" style:"display: inline_block"><br>
-   <img align:"right" height ="200px" src="https://cdn.discordapp.com/attachments/1031342785682493596/1034118325078347787/picasion.com_119caf0ebb302d1702aaca4955fc3c68.gif"/>
+   <img align:"right" height ="180px" src="https://cdn.discordapp.com/attachments/1031342785682493596/1034118325078347787/picasion.com_119caf0ebb302d1702aaca4955fc3c68.gif"/>
      </div>
    
     

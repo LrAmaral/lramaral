@@ -3,8 +3,8 @@
     
   <div align="center" style="display: inline_block">
     <a href="https://github.com/LrAmaral">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LrAmaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LrAmaral&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=LrAmaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LrAmaral&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
@@ -26,7 +26,7 @@
   </div>
   
   <div align="center" style:"display: inline_block"><br>
-   <img align:"right" height ="180px" src="https://cdn.discordapp.com/attachments/1031342785682493596/1034118325078347787/picasion.com_119caf0ebb302d1702aaca4955fc3c68.gif"/>
+   <img align:"right" height ="160px" src="https://cdn.discordapp.com/attachments/1031342785682493596/1034118325078347787/picasion.com_119caf0ebb302d1702aaca4955fc3c68.gif"/>
      </div>
    
     

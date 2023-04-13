@@ -1,12 +1,14 @@
-### Hello World, I´m Lucas! 👋🏽☕
+<h1 align="center">👋🏽Hello World, I´m Lucas!</h1> 
+
+   <h3 align="center">☕ Be welcome </h3>
     
-  <div align="center" style="display: inline_block"> 
+  <div align="center" style="flex flex-col justify-center items-center">
     <a href="https://github.com/LrAmaral">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=LrAmaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LrAmaral&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<!--   <div align="center" style="display: inline_block">
-  <strong><h3>🌱 I’m currently learning:</h3></strong>
+   <div align="center" style="display: inline_block">
+  <strong><h3>🛠 Personal Tools</h3></strong>
     <img align:"center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align:"center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align:"center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -15,13 +17,12 @@
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=w"</a>
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   </div>
- -->
+ 
   
-  
-  <div align="center" style="display: inline_block">
-  <strong><h3>📫 How to reach me:</h3></strong>
-  <a href = "https://www.linkedin.com/in/lucas-amaral-73650a1b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto: lucasamaral18y@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <div align="center">
+      <strong><h3>📫 How to reach me:</h3></strong>
+      <a href = "https://www.linkedin.com/in/lucas-amaral-73650a1b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href = "mailto: lucasamaral18y@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
 <!--   <div align="center" style:"display: inline_block">

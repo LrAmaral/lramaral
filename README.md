@@ -4,8 +4,8 @@
     
   <div align="center" style="flex flex-col justify-center items-center">
     <a href="https://github.com/LrAmaral">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=LrAmaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LrAmaral&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" width="400px" src="https://github-readme-stats.vercel.app/api?username=LrAmaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LrAmaral&layout=compact&langs_count=7&theme=dracula"/>
 </div>
    <div align="center" style="display: inline_block">
   <strong><h3>🛠 Personal Tools</h3></strong>

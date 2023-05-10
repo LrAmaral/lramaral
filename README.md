@@ -1,17 +1,17 @@
-<h1 >Hello World, I´m Lucas 👋🏽</h1> 
+<h1>Be welcome, I´m Lucas 👋🏽</h1> 
     
-  <div align="center" style="flex flex-col justify-center items-center">
-    <a href="https://github.com/LrAmaral">
+  <div >
+   <a href="https://github.com/LrAmaral">
   <img height="150em" width="400px" src="https://github-readme-stats.vercel.app/api?username=LrAmaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LrAmaral&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-   <div align="center" style="display: inline_block">
-  <h2> Tools 🛠 </h2>
+   <div >
+  <h2> Learning 🧶 </h2>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=w"/>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"</a>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=w"/>
   </div>
 
   

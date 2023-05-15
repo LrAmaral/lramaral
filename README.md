@@ -7,7 +7,6 @@
     <li>Currently studying System Analysis and Development 👨🏽‍🎓</li>
 </ul>
 
- <br>
 
  <div >
       <h4> Practicing 🧶 </h4>

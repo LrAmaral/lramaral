@@ -1,15 +1,15 @@
 <h3>Hello world 👋🏽</h3> 
 <br>
 
-<p>I'm Lucas, a native portuguese speaker, a tech enthusiat and passionate front-end developer 🧩</p>
+<p>I'm Lucas, a native portuguese speaker, a tech enthusiat and passionate front-end developer. </p>
 
 <ul>
-    <li>Currently studying System Analysis and Development 👨🏽‍🎓</li>
+    <li>Currently studying System Analysis and Development.</li>
 </ul>
 
 
  <div >
-      <h4> Practicing 🧶 </h4>
+      <h4> Practicing: </h4>
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=w"/>
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>

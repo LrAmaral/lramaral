@@ -1,4 +1,4 @@
-<h2>Hello world 👋🏽</h2> 
+<h3>Hello world 👋🏽</h3> 
 <br>
 
 <p>I'm Lucas, a native portuguese speaker, a tech enthusiat and passionate front-end developer 🧩</p>

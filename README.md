@@ -1,10 +1,13 @@
 <h2>Hello world 👋🏽</h2> 
+<br>
 
 <p>I'm Lucas, a native portuguese speaker, a tech enthusiat and passionate front-end developer 🧩</p>
 
 <ul>
     <li>Currently studying System Analysis and Development 👨🏽‍🎓</li>
 </ul>
+
+ <br>
 
  <div >
       <h4> Practicing 🧶 </h4>
@@ -18,7 +21,7 @@
         <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
   </div>
     
-  <br>
+   <br>
   
   <div align="center">
       <a href="https://github.com/LrAmaral">

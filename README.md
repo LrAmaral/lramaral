@@ -26,8 +26,9 @@
   
   <div align="center">
       <a href="https://github.com/LrAmaral">
-      <img height="170em" width="400px" src="https://github-readme-stats.vercel.app/api?username=LrAmaral&show_icons=true&&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true"/>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LrAmaral&layout=compact&text_color=ffffff&bg_color=080505&hide_border=true"/>
+      <img height="160em" width="400px" src="https://github-readme-stats.vercel.app/api?username=LrAmaral&show_icons=true&&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LrAmaral&layout=compact&text_color=ffffff&bg_color=080505&hide_border=true"/>
+      <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=lramaral&theme=highcontrast&hide_border=true" />
   </div>
 
   

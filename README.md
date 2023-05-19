@@ -1,4 +1,8 @@
-<h3>Hello world 👋🏽</h3> 
+
+Hello world
+<img height="32px" src="https://github.com/LrAmaral/LrAmaral/assets/87763007/12560dc8-f10a-4893-9d81-470218285da9">
+
+
 <br>
 
 <p>I'm Lucas, a native portuguese speaker, a tech enthusiat and passionate front-end developer. </p>
@@ -18,15 +22,15 @@
         <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
         <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   </div>
     
    <br>
   
   <div align="center">
       <a href="https://github.com/LrAmaral">
-      <img height="170em" width="400px" src="https://github-readme-stats.vercel.app/api?username=LrAmaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LrAmaral&layout=compact&langs_count=7&theme=dracula"/>
+      <img height="170em" width="400px" src="https://github-readme-stats.vercel.app/api?username=LrAmaral&show_icons=true&&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true"/>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LrAmaral&layout=compact&text_color=ffffff&bg_color=080505&hide_border=true"/>
   </div>
 
   

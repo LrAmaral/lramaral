@@ -1,6 +1,6 @@
 
 # Hey there <img height="32px" src="https://github.com/LrAmaral/LrAmaral/assets/87763007/12560dc8-f10a-4893-9d81-470218285da9">
-
+<br>
 <ul>
     <li>Currently studying System Analysis and Development 👨🏽‍🎓</li>
 </ul>

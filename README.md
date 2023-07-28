@@ -1,11 +1,10 @@
 
-# Hey there, I'm Lucas Amaral <img height="32px" src="https://github.com/LrAmaral/LrAmaral/assets/87763007/12560dc8-f10a-4893-9d81-470218285da9">
+# Hey there <img height="32px" src="https://github.com/LrAmaral/LrAmaral/assets/87763007/12560dc8-f10a-4893-9d81-470218285da9">
 
 <ul>
-    <li>Currently developing freelance applications 🏗</li>
     <li>Currently studying System Analysis and Development 👨🏽‍🎓</li>
 </ul>
-
+<br>
  <div>
       <a href="https://github.com/LrAmaral">
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LrAmaral&layout=compact&text_color=ffffff&bg_color=080505&hide_border=true"/>

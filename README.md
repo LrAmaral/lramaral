@@ -4,7 +4,7 @@
 <p>About me:</p>
 <ul>
     <li>Currently studying System Analysis and Development 👨🏽‍🎓</li>
-    <li>How to reach me: <a href="https://lramaral.vercel.app/" target="_blank"> my website</li>
+    <li>How to reach me: <a href="https://lramaral.vercel.app/"> my website</li>
 </ul>
 <br>
  <div>

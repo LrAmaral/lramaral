@@ -1,9 +1,12 @@
 
 # Hey there <img height="32px" src="https://github.com/LrAmaral/LrAmaral/assets/87763007/12560dc8-f10a-4893-9d81-470218285da9">
-<br>
+
+<code>ifLiked === true ? sendMessage : justEnjoy </code>
+
 <p>About me:</p>
 <ul>
-    <li>Currently studying System Analysis and Development 👨🏽‍🎓</li>
+    <li>Frontend developer at a volunteer work at inkPen.</li>
+    <li>Currently studying System Analysis and Development.</li>
     <li>How to reach me: <a href="https://lramaral.vercel.app/"> my website.</li>
 </ul>
 <br>

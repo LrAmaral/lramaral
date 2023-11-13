@@ -1,3 +1,4 @@
+<p>About me:</p>
 <ul>
     <li>Frontend developer at a volunteer work at inkPen.</li>
     <li>Currently studying System Analysis and Development.</li>

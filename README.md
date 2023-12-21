@@ -1,9 +1,10 @@
-<p>About me:</p>
+<h3>About me:</h3>
 <ul>
     <li>Frontend developer at a volunteer work at inkPen.</li>
     <li>Currently studying System Analysis and Development.</li>
     <li>How to reach me: <a href="https://lramaral.vercel.app/"> my website.</li>
 </ul>
+<br>
  <div>
       <a href="https://github.com/LrAmaral">
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LrAmaral&layout=compact&text_color=ffffff&bg_color=080505&hide_border=true"/>

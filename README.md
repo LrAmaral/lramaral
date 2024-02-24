@@ -20,5 +20,5 @@
 </ul>
 
 <h5>Tools: </h5>
-<img src="https://skillicons.dev/icons?i=js,ts,next,react,tailwind,scss,java,dart,flutter&theme=dark&perline=12" alt="icons" style="width: 32rem"/>
+<img src="https://skillicons.dev/icons?i=js,ts,next,react,tailwind,scss,java,dart,flutter&theme=dark&perline=12" alt="icons" style="width: 24rem"/>
 

@@ -18,7 +18,3 @@
   I'm currently working towards completing my degree at Analisys and System Development. 5th Semester.
  </li>
 </ul>
-
-<h5>Tools: </h5>
-<img src="https://skillicons.dev/icons?i=js,ts,next,react,tailwind,scss,java,dart,flutter&theme=dark&perline=12" alt="icons" style="width: 24rem"/>
-

@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Lucas </h2>
 
-<h3>Software Developer, tech enthusiastic and minimalistic.</h3>
+<h3>Software Developer</h3>
 
 <h5>Experience:</h5>
 <ul>

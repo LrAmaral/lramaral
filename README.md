@@ -14,6 +14,9 @@
   <li>
     Volunteer Frontend Developer at InkPen.
   </li>
+  <li>
+    Freelancer Developer.
+  </li>
 </ul>
 
 <h5>College:</h5>

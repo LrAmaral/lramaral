@@ -19,6 +19,6 @@
 <h5>College:</h5>
 <ul>
  <li>
-  I'm currently working towards completing my degree at Analisys and System Development. 6th Semester.
+  Graduated at Analisys and System Development.
  </li>
 </ul>

@@ -6,10 +6,13 @@
 <h5>Experience:</h5>
 <ul>
   <li>
-    Intern Frontend Developer at Spin Tecnologia.
+    Full Stack Developer at Spin Tecnologia (2024 - Present moment).
   </li>
   <li>
-    Volunteer Frontend Developer at InkPen.
+    Frontend Developer at Urka (2024 - Present moment).
+  </li>
+  <li>
+    Volunteer Frontend Developer at InkPen (2023 - 2024).
   </li>
 </ul>
 
@@ -20,6 +23,6 @@
  </li>
 </ul>
 
-<br>
+<h5>Techs</h5>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lramaral&layout=compact&theme=dark)

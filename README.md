@@ -9,9 +9,6 @@
     Full Stack Developer at Spin Tecnologia (2024 - Present moment).
   </li>
   <li>
-    Frontend Developer at Urka (2024 - Present moment).
-  </li>
-  <li>
     Volunteer Frontend Developer at InkPen (2023 - 2024).
   </li>
 </ul>

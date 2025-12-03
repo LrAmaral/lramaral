@@ -20,6 +20,8 @@
  </li>
 </ul>
 
-<h5>Techs:</h5>
+<!-- <h5>Techs:</h5>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lramaral&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lramaral&layout=compact&theme=dark) -->
+
+

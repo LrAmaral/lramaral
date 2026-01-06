@@ -22,7 +22,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind&theme=dark&perline=12" alt="icons" style="width: 16rem"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,tailwind&theme=dark&perline=12" alt="icons" style="width: 16rem"/>
 
 <!-- <h5>Techs:</h5>
 

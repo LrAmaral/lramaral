@@ -20,6 +20,10 @@
  </li>
 </ul>
 
+<br/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind&theme=dark&perline=12" alt="icons" style="width: 24rem"/>
+
 <!-- <h5>Techs:</h5>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lramaral&layout=compact&theme=dark) -->

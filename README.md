@@ -3,7 +3,7 @@
   <img src="https://github.com/LrAmaral/lramaral/assets/87763007/76120f72-3af5-43aa-84ee-6f4c2ba43e27" alt="Hi" width="30" height="30" style="margin-left: 24px;" />
 </h2>
 
-<h5>Experience:</h5>
+<h4>Experience:</h4>
 <ul>
   <li>
     Full Stack Developer at Spin Tecnologia (2024 - 2026).
@@ -13,7 +13,7 @@
   </li>
 </ul>
 
-<h5>College:</h5>
+<h4>College:</h4>
 <ul>
  <li>
   Graduated at Analisys and System Development.

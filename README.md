@@ -6,7 +6,7 @@
 <h5>Experience:</h5>
 <ul>
   <li>
-    Full Stack Developer at Spin Tecnologia (2024 - Present moment).
+    Full Stack Developer at Spin Tecnologia (2024 - 2026).
   </li>
   <li>
     Volunteer Frontend Developer at InkPen (2023 - 2024).

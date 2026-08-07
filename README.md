@@ -6,6 +6,9 @@
 <h4>Experience:</h4>
 <ul>
   <li>
+    Software Developer at Rota 7 (2026 - the moment).
+  </li>
+  <li>
     Full Stack Developer at Spin Tecnologia (2024 - 2026).
   </li>
   <li>

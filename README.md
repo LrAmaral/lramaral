@@ -14,9 +14,6 @@ TypeScript • Node.js • PHP • Angular • Next.js  • MySQL
   <li>
     Full Stack Developer at Spin Tecnologia (2024 - 2026).
   </li>
-  <li>
-    Volunteer Frontend Developer at InkPen (2023 - 2024).
-  </li>
 </ul>
 
 <h4>College:</h4>

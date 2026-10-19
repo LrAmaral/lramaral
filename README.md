@@ -3,8 +3,8 @@
   <img src="https://github.com/LrAmaral/lramaral/assets/87763007/76120f72-3af5-43aa-84ee-6f4c2ba43e27" alt="Hi" width="30" height="30" style="margin-left: 24px;" />
 </h2>
 
-Tech Stack:
-TypeScript • Node.js • PHP • Angular • Next.js  • MySQL
+<!-- Tech Stack:
+TypeScript • Node.js • PHP • Angular • Next.js  • MySQL -->
 
 <h4>Experience:</h4>
 <ul>
